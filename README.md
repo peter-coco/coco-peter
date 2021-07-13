@@ -37,4 +37,6 @@ Let's grow up !!
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>    
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coco-peter)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coco-peter)](https://github.com/anuraghazra/github-readme-stats)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coco-peter)](https://github.com/anuraghazra/github-readme-stats)
+
